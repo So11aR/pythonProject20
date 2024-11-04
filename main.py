@@ -1,3 +1,8 @@
-# This is a sample Python script.
 
 
+age = 19
+
+
+
+if 5 == 5:
+  print()
